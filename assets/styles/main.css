@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color-green: #003732;
+  --green-tint-5: #f2f5f5;
+  --green-tint-20: #ccd7d6;
+}
+
+body {
+  font-family: "No5Gx";
+}
+
+h1 {
+  font-family: "No5Gx";
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 20;
+  line-height: 130%; /* 67.6px */
+}
+
+h3 {
+  font-family: "No5Gx";
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 30;
+  line-height: 140%; /* 36.4px */
+}
+
+h4 {
+  font-family: "No5Gx";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 30;
+  line-height: 140%; /* 23.8px */
+}
+
+.buttonTxt {
+  text-align: center;
+  font-family: "No5Gx";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 22.5px */
+}
+
+p.strong {
+  font-family: "No5Gx";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 150%; /* 22.5px */
+}
+
+@font-face {
+  font-family: "No5Gx";
+  src: url("../fonts/No5GX.ttf");
+}
