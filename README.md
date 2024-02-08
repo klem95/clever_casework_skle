@@ -1,3 +1,7 @@
+# Koda_Case_SKLE
+Dette repo indeholder Sune Øllgaard Klem's løsning på casen præsenteret af Clever.
+npm run dev for at køre lokal.
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
